@@ -1,0 +1,6 @@
+{
+  "name": "甘特图项目管理",
+  "description": "基于Liquid Glass苹果玻璃拟态风格的高效甘特图项目管理应用，支持快速添加子任务、任务依赖联动与自动顺延计算、淡雅色块选择与多维度视图。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
